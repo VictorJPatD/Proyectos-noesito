@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48921576676",
+    "project_id": "flutter-push-3ceb1",
+    "storage_bucket": "flutter-push-3ceb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48921576676:android:26be9064848d26be0098f1",
+        "android_client_info": {
+          "package_name": "com.victorpat.pushappudemy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3lcUbP1llCwBy7c4vgRonN5EzCS7BqPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
